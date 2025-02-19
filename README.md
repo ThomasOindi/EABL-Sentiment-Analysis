@@ -76,7 +76,8 @@ To drive accurate analytics, the project sources data from:
 * <b>Visualization</b>: Power BI, Matplotlib, Seaborn
 * <b>Database<b/>: MSQL
 
-Cloud Infrastructure: AWS
+* <b>Cloud Infrastructure<b/> : AWS
+
 #### 📈 Impact Metrics
 
 To measure success, the following KPIs will be tracked:
