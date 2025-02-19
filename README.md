@@ -24,10 +24,10 @@ EABL’s Social Analytics project is designed to harness the power of data-drive
 ##### 🚀 Objectives
 
 
-✅ Monitor brand sentiment across digital platforms
-✅ Analyze consumer preferences and trends in real-time
-✅ Track campaign performance and optimize marketing strategies
-✅ Enhance customer engagement through personalized interactions
+* ✅ Monitor brand sentiment across digital platforms
+* ✅ Analyze consumer preferences and trends in real-time
+* ✅ Track campaign performance and optimize marketing strategies
+* ✅ Enhance customer engagement through personalized interactions
 
 #### 🛠️ Solution Overview
 
@@ -68,11 +68,9 @@ To drive accurate analytics, the project sources data from:
 * 📡 Google Trends & Search Analytics
 
 #### ⚙️ Tech Stack
-
-
 ##### Technology Used:
 
-* <b>Machine Learning Model<b/>: OpenAI GPT-4, BERT, Sentiment Analysis Models
+* <b>Machine Learning Model</b>: OpenAI GPT-4, BERT, Sentiment Analysis Models
 
 * Data Processing: Python (Pandas, NumPy)
 * Visualization: Power BI, Matplotlib, Seaborn
