@@ -5,9 +5,9 @@ Data-Driven Brand Mastery: EABL's Social Analytics 📊🍻
 
 
 
-Business Overview
+## Business Overview
 
-Introduction
+#### Introduction
 
 East African Breweries Limited (EABL) is a leading player in the Fast-Moving Consumer Goods (FMCG) sector, specializing in the beverage industry. With operations spanning across Kenya, Uganda, Tanzania, Rwanda, and South Sudan, EABL has cultivated a strong market presence through an extensive portfolio of renowned brands, including:
 
@@ -22,6 +22,7 @@ East African Breweries Limited (EABL) is a leading player in the Fast-Moving Con
 EABL’s Social Analytics project is designed to harness the power of data-driven insights from social media and online interactions. This initiative aims to enhance brand engagement, consumer sentiment analysis, and marketing effectiveness by leveraging AI-driven analytics.
 
 ##### 🚀 Objectives
+
 
 ✅ Monitor brand sentiment across digital platforms✅ Analyze consumer preferences and trends in real-time✅ Track campaign performance and optimize marketing strategies✅ Enhance customer engagement through personalized interactions
 
