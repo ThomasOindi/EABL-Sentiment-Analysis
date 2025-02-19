@@ -35,57 +35,49 @@ EABL’s Social Analytics project is designed to harness the power of data-drive
 
 * Utilizes NLP (Natural Language Processing) to analyze customer sentiment.
 
-Tracks and categorizes social media interactions related to EABL brands.
+* Tracks and categorizes social media interactions related to EABL brands.
 
-Generates actionable insights for marketing and brand positioning.
+* Generates actionable insights for marketing and brand positioning.
 
 #### 🔹 Data Integration & Visualization
 
-Aggregates data from platforms like Twitter, Facebook, Instagram, YouTube, and blogs.
+* Aggregates data from platforms like Twitter, Facebook, Instagram, YouTube, and blogs.
 
-Visualized through interactive dashboards for easy analysis.
+* Visualized through interactive dashboards for easy analysis.
 
-Supports decision-making with real-time data-driven insights.
+* Supports decision-making with real-time data-driven insights.
 
 #### 🔹 Competitive Benchmarking
 
-Compares EABL brand performance against competitors.
+* Compares EABL brand performance against competitors.
 
-Identifies market gaps and emerging consumer trends.
+* Identifies market gaps and emerging consumer trends.
 
 #### 📂 Data Sources
 
 To drive accurate analytics, the project sources data from:
 
-📊 Social Media Platforms (Facebook, Twitter, Instagram, YouTube)
+* 📊 Social Media Platforms (Facebook, Twitter, Instagram, YouTube)
 
-📝 Customer Reviews & Feedback
+* 📝 Customer Reviews & Feedback
 
-📑 Market Research Reports
+* 📑 Market Research Reports
 
-🌐 Web Scraping for Industry Trends
+* 🌐 Web Scraping for Industry Trends
 
-📡 Google Trends & Search Analytics
+* 📡 Google Trends & Search Analytics
 
 #### ⚙️ Tech Stack
 
-Component
 
-Technology Used
+##### Technology Used:
 
-Machine Learning Model
+* <b>Machine Learning Model<b/>: OpenAI GPT-4, BERT, Sentiment Analysis Models
 
-OpenAI GPT-4, BERT, Sentiment Analysis Models
+* Data Processing: Python (Pandas, NumPy)
+* Visualization: Power BI, Matplotlib, Seaborn
 
-Data Processing
-
-Python (Pandas, NumPy)
-
-####Visualization
-
-Power BI, Matplotlib, Seaborn
-
-Database
+* Database
 
 PostgreSQL / BigQuery
 
