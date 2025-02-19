@@ -84,15 +84,15 @@ To measure success, the following KPIs will be tracked:
 
 #### Metric Description:
 
-* <b>📉 Brand Sentiment Score</b>: Tracks positive, neutral, and negative sentiment trends.
+* <b> Brand Sentiment Score </b>: Tracks positive, neutral, and negative sentiment trends.
 
-*  <b>📊 Engagement Rate</b>: Measures likes, shares, comments, and mentions.
+*  <b> Engagement Rate </b>: Measures likes, shares, comments, and mentions.
 
-* <b>🚀 Market Share Growth</b>:Evaluates brand positioning in the competitive landscape.
+* <b> Market Share Growth </b>:Evaluates brand positioning in the competitive landscape.
 
-*<b> 🔍 Customer Retention Rate</b>: Analyzes repeat customers and loyalty trends.
+*<b> Customer Retention Rate </b>: Analyzes repeat customers and loyalty trends.
 
-* </b>🎯 Campaign ROI</b>:Measures the effectiveness of digital marketing initiatives.
+* </b> Campaign ROI </b>:Measures the effectiveness of digital marketing initiatives.
 
 ### 🚀 Deployment Strategy
 
