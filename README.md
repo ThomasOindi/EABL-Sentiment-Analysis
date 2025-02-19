@@ -70,13 +70,13 @@ To drive accurate analytics, the project sources data from:
 #### ⚙️ Tech Stack
 ##### Technology Used:
 
-* <b>Machine Learning Model</b>: OpenAI GPT-4, BERT, Sentiment Analysis Models
+* <b> Machine Learning Model </b>: OpenAI GPT-4, BERT, Sentiment Analysis Models
 
-* <b>Data Processing</b>: Python (Pandas, NumPy)
-* <b>Visualization</b>: Power BI, Matplotlib, Seaborn
-* <b>Database<b/>: MSQL
+* <b> Data Processing </b>: Python (Pandas, NumPy)
+* <b> Visualization </b>: Power BI, Matplotlib, Seaborn
+* <b> Database <b/>: MSQL
 
-* <b>Cloud Infrastructure<b/> : AWS
+* <b> Cloud Infrastructure <b/> : AWS
 
 #### 📈 Impact Metrics
 
@@ -99,7 +99,7 @@ To measure success, the following KPIs will be tracked:
 <b>🔹 Data Pipeline </b> : 
 Collects, cleans, and processes data from social media and online sources.
 
-<b>Analysis & Visualization</b>: 
+<b> Analysis & Visualization </b>: 
 Real-time dashboards in Power BI for actionable insights.
 
 #### 🔹 Feedback Mechanism
@@ -113,4 +113,6 @@ Enables data-driven decision-making for campaigns and promotions.
 #### 🎯 Conclusion
 
 EABL Social Analytics is set to revolutionize brand monitoring and consumer engagement through AI-driven insights. By leveraging cutting-edge analytics and real-time sentiment tracking, EABL will:
-✅ Improve brand perception and market positioning✅ Optimize marketing strategies based on data-driven insights✅ Strengthen customer relationships through personalized engagement
+- Improve brand perception and market positioning
+- Optimize marketing strategies based on data-driven insights
+- Strengthen customer relationships through personalized engagement
