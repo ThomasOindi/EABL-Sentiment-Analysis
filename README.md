@@ -96,9 +96,11 @@ To measure success, the following KPIs will be tracked:
 
 ### 🚀 Deployment Strategy
 
-<b>🔹 Data Pipeline </b>: Collects, cleans, and processes data from social media and online sources.
+<b>🔹 Data Pipeline </b> : 
+Collects, cleans, and processes data from social media and online sources.
 
-<b>Analysis & Visualization</b>: Real-time dashboards in Power BI for actionable insights.
+<b>Analysis & Visualization</b>: 
+Real-time dashboards in Power BI for actionable insights.
 
 #### 🔹 Feedback Mechanism
 
