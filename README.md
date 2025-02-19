@@ -30,7 +30,7 @@ EABL’s Social Analytics project is designed to harness the power of data-drive
 
 #### 🔹 AI-Powered Analytics Engine
 
-Utilizes NLP (Natural Language Processing) to analyze customer sentiment.
+* Utilizes NLP (Natural Language Processing) to analyze customer sentiment.
 
 Tracks and categorizes social media interactions related to EABL brands.
 
