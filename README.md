@@ -57,15 +57,15 @@ EABL’s Social Analytics project is designed to harness the power of data-drive
 
 To drive accurate analytics, the project sources data from:
 
-* 📊 Social Media Platforms (Facebook, Twitter, Instagram, YouTube)
+* Social Media Platforms (Facebook, Twitter, Instagram, YouTube)
 
-* 📝 Customer Reviews & Feedback
+*  Customer Reviews & Feedback
 
-* 📑 Market Research Reports
+* Market Research Reports
 
-* 🌐 Web Scraping for Industry Trends
+* Web Scraping for Industry Trends
 
-* 📡 Google Trends & Search Analytics
+* Google Trends & Search Analytics
 
 #### ⚙️ Tech Stack
 ##### Technology Used:
