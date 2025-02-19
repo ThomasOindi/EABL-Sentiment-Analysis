@@ -90,7 +90,7 @@ To measure success, the following KPIs will be tracked:
 
 * <b> Market Share Growth </b>:Evaluates brand positioning in the competitive landscape.
 
-*<b> Customer Retention Rate </b>: Analyzes repeat customers and loyalty trends.
+* <b> Customer Retention Rate </b>: Analyzes repeat customers and loyalty trends.
 
 * </b> Campaign ROI </b>:Measures the effectiveness of digital marketing initiatives.
 
