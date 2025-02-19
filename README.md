@@ -24,7 +24,10 @@ EABL’s Social Analytics project is designed to harness the power of data-drive
 ##### 🚀 Objectives
 
 
-✅ Monitor brand sentiment across digital platforms✅ Analyze consumer preferences and trends in real-time✅ Track campaign performance and optimize marketing strategies✅ Enhance customer engagement through personalized interactions
+✅ Monitor brand sentiment across digital platforms
+✅ Analyze consumer preferences and trends in real-time
+✅ Track campaign performance and optimize marketing strategies
+✅ Enhance customer engagement through personalized interactions
 
 #### 🛠️ Solution Overview
 
