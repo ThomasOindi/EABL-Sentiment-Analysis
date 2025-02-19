@@ -72,60 +72,38 @@ To drive accurate analytics, the project sources data from:
 
 * <b>Machine Learning Model</b>: OpenAI GPT-4, BERT, Sentiment Analysis Models
 
-* Data Processing: Python (Pandas, NumPy)
-* Visualization: Power BI, Matplotlib, Seaborn
+* <b>Data Processing</b>: Python (Pandas, NumPy)
+* <b>Visualization</b>: Power BI, Matplotlib, Seaborn
+* <b>Database<b/>: MSQL
 
-* Database
-
-PostgreSQL / BigQuery
-
-Cloud Infrastructure
-
-AWS / Google Cloud
-
+Cloud Infrastructure: AWS
 #### 📈 Impact Metrics
 
 To measure success, the following KPIs will be tracked:
 
-Metric
+#### Metric Description:
 
-Description
+* <b>📉 Brand Sentiment Score</b>: Tracks positive, neutral, and negative sentiment trends.
 
-📉 Brand Sentiment Score
+*  <b>📊 Engagement Rate</b>: Measures likes, shares, comments, and mentions.
 
-Tracks positive, neutral, and negative sentiment trends.
+* <b>🚀 Market Share Growth</b>:Evaluates brand positioning in the competitive landscape.
 
-📊 Engagement Rate
+*<b> 🔍 Customer Retention Rate</b>: Analyzes repeat customers and loyalty trends.
 
-Measures likes, shares, comments, and mentions.
+* </b>🎯 Campaign ROI</b>:Measures the effectiveness of digital marketing initiatives.
 
-🚀 Market Share Growth
+### 🚀 Deployment Strategy
 
-Evaluates brand positioning in the competitive landscape.
+<b>🔹 Data Pipeline </b>: Collects, cleans, and processes data from social media and online sources.
 
-🔍 Customer Retention Rate
-
-Analyzes repeat customers and loyalty trends.
-
-🎯 Campaign ROI
-
-Measures the effectiveness of digital marketing initiatives.
-
-🚀 Deployment Strategy
-
-#### 🔹 Data Pipeline
-
-Collects, cleans, and processes data from social media and online sources.
-
-#### 🔹 Analysis & Visualization
-
-Real-time dashboards in Power BI for actionable insights.
+<b>Analysis & Visualization</b>: Real-time dashboards in Power BI for actionable insights.
 
 #### 🔹 Feedback Mechanism
 
 Refines analytics based on user feedback and brand strategy shifts.
 
-🔹 Integration with Marketing Teams
+### 🔹 Integration with Marketing Teams
 
 Enables data-driven decision-making for campaigns and promotions.
 
